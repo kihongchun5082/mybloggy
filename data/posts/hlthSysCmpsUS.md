@@ -1,0 +1,41 @@
+# 미국 보건의료체계의 중심은 민간보험회사가 아닌 CMS 입니다.
+
+## 1. 미국 보건의료체계 구성 요소와 우리나라와의 비교
+* 미국 보건의료체계를 구성하는 요소를 수요자인 국민과 지불자, 보험자, 공급자 등 시장 주체에 따라 분류하면 다음 그림과 같이 개념적으로 표현할 수 있을 것입니다. 
+
+![미국과우리나라보건의료체계비교](</images/posts/미국과우리나라보건의료체계비교.png>)
+
+### 가. 지불자
+* 제일 상위는 보건의료체계의 자금(Fund)의 원천인 지불자(Payer)입니다. 미국 보건의료체계의 지불자는 [CMS](https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services)(Center for Medicare and Medicaid Services)와 민간 의료보험자들입니다. 그 외 국방부, 재향군인회, 개인 등이 있지만 비중이 적습니다([미국의료보장종류별의료비백분율](</images/posts/미국의료보장종류별의료비백분율.png>) 참조).([CMS>NHE Fact Sheet](https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet)). CMS는 미국 보건부 산하 기관이고 미국 인구의 [⅓](</images/posts/미국의료보장종류별인구수백분율.png>)에 해당하는 노인과 빈약자를 대상으로 [메디케어](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicare](https://en.wikipedia.org/wiki/Medicare_(United_States)))와 [메디케이드](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicaid](https://en.wikipedia.org/wiki/Medicaid)) 프로그램을 통해 의료보장을 수행합니다. 정부 예산을 통해 메디케어와 메디케이드 대상자들에게 민간의료공급자들이 제공된 보건의료서비스 비용을 상환합니다. 
+
+* 민간 의료보험자들은 자신의 플랜(Plan) 즉 보험 상품에 가입한 사람들을 대상으로 자신의 네트워크([Network](https://www.lawinsider.com/dictionary/managed-care-network))를 통해 의료서비스를 제공하거나 네트워크 외 의료기관에서 제공받은 보건의료서비스에 대해 상환합니다. 여기서 우리나라와 다른 부분이 있습니다. 민간보험자가 가진 플랜이 진료비를 상환하는 것 뿐만 아니라 서비스를 제공한다는 것입니다. 대부분 자신의 보건의료서비스 네트워크를 통해 서비스를 제공합니다. 이런 플랜들을 통칭해서 관리의료조직([MCO](https://en.wikipedia.org/wiki/Managed_care):Managed Care Organization, 이하 MCOs라 함)이라고 합니다. 우리나라에는 없는 조직 형태입니다. 이 MCOs들이 저 마다 다르게 구성한 의료기관들의 집합을 통해 가입한 멤버(member)들에게 가장 비용-효과적인 서비스를 제공합니다. 이것이 미국 보건의료제공체계([Healthcare Delivery System](https://www.ncbi.nlm.nih.gov/books/NBK221227/))의 핵심입니다. 이 의료기관 집합을 보건의료네트워크([Healthcare Network](https://www.healthcare.gov/glossary/network/#:~:text=The%20facilities%2C%20providers%20and%20suppliers,to%20provide%20health%20care%20services.))라고 하고 종합병원부터 의원, 노인요양병원, 장기요양시설 등 수직적(vertical)으로 필요한 의료기관을 모두 갖춘 네트워크를 통합보건의료네트워크([Integrated Delivery Network](https://en.wikipedia.org/wiki/Integrated_delivery_system))라고 합니다.
+
+* 우리나라 보건의료체계의 지불자는 [국민건강보험공단](https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8)입니다. 그 외 개인들과 [의료급여](https://www.mohw.go.kr/menu.es?mid=a10708030100)를 상환해 주는 정부가 있습니다. 의료급여는 [3%](https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=10722&pageIndex=1) 미만으로 미미합니다. 건강보험 급여진료비 본인부담과 비급여 진료비를 지불하는 개인은 국민의료비 지출의 [30%](https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=2763)를 지불하므로 비중이 적지 않습니다. 우리나라는 지불자가 공급자 즉 의료기관에 진료비를 상환하거나 지불하는 기능만을 합니다. 미국과 같이 민간보험자가 없기 때문에 보험자가 자체적으로 운영하는 서비스 공급 조직이 없습니다. 따라서 서비스 제공자인 의료기관이 제공한 서비스에 대한 비용을 청구하면 진료비를 상환하는 것이 전부입니다. 현금으로만 거래하는 제3자(the third party)입니다. 게다가 지불방식이 거의 대부분 단순한 행위별수가제이기 때문에 의료기관은 지불자가 정한 건강보험 [급여인정기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000400) 범위 내에서 [한계이익](https://cnpsolution.wixsite.com/main/single-post/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A9%ED%91%9C%EC%9D%B4%EC%9D%B5-%ED%95%9C%EA%B3%84%EC%9D%B4%EC%9D%B5-%EB%B3%80%EB%8F%99%EC%9D%B4%EC%9D%B5-%EA%B3%B5%ED%97%8C%EC%9D%B4%EC%9D%B5%EC%9D%98-%EA%B5%AC%EB%B6%84#:~:text=%ED%95%9C%EA%B3%84%20%EC%9D%B4%EC%9D%B5%EC%9D%80%20%EB%A7%A4%EC%B6%9C%EC%95%A1%EC%97%90%EC%84%9C,%EC%9D%98%20%EC%B5%9C%EB%8C%80%EC%9D%B4%EC%9D%B5%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4.&text=%EA%B2%BD%EC%98%81%EC%9D%B8%EC%9D%B4%20%EB%B3%B4%EB%8A%94%20%EC%9D%B4%EC%9D%B5%EC%9D%98,%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9D%B5%EC%9D%B8%20%EA%B2%83%EC%9D%B4%EB%8B%A4.)([marginal profit](https://en.wikipedia.org/wiki/Marginal_profit))이 0이 될 때까지 서비스 양을 늘림으로써 수익(revenue)을 극대화하고 있습니다. 의료기관을 통제하고 조절할 수 있는 중간 조직이 없기 때문에 지불자인 국민건강보험공단은 의료기관에 직접 진료비를 지불합니다. 오직 급여인정기준에 해당하는 지만을 검토합니다. 급여인정기준은 사전에 모두 공개되므로 의료기관은 이 조건을 충족시켜 진료비를 청구하면 거의 전부 상환받습니다. [도덕적 해이](https://www.moef.go.kr/sisa/board/help?codeIdx=29)([moral hazard](https://en.wikipedia.org/wiki/Moral_hazard))가 많을 수 밖에 없는 구조입니다. 
+
+* 미국도 대부분 행위별수가제 방식으로 진료비를 상환 지불합니다. 우리나라와 다른 점은 미국은 서비스 공급자 조직이 있고 이 조직에 가입한 멤버들이 있기 때문에 지불자가 상대할 서비스 제공 조직들과 이들이 관리하는 멤버 인구집단이 있다는 것입니다. 따라서 미국은 지불자가 가치-기반 행위별수가제([value-based fee-for-service](https://www.elationhealth.com/resources/blogs/fee-for-service-vs-value-based-care-the-differences-explained))를 적용할 수 있습니다. 가치-기반의 의미란 인구집단 건강상태와 의료이용 경험 뿐만 아니라 대상 인구집단에 사용한 비용을 평가해 결과에 따라 서비스 제공 조직 혹은 의료기관에 지불할 진료비를 결정할 수 있는 것입니다. 즉 책임맡고 있는 인구집단의 건강([population health](https://en.wikipedia.org/wiki/Population_health))이 지불자가 추구하는 가치이며, 이 가치에 대해 비용을 상환하고 필요에 따라 비용을 절감한 부분에 대한 보상까지 합니다.
+
+### 나. 보험자
+
+* 미국의 보험자는 지불자인 민간보험회사가 운영하는 플랜이라고 할 것입니다. 보험 가입자를 모집하고 가입한 멤버들에게 서비스를 제공하거나 비네트워크 의료기관에서 이용한 진료에 대해 상환할 비용을 결정합니다. 또 멤버들에 대한 보험료(premium)를 정합니다. 미국 보건의료제공체계의 핵심입니다. 플랜의 주체인 MCOs는 크게 [HMO](https://en.wikipedia.org/wiki/Health_maintenance_organization)(Health Maintenance Organization, 이하 HMOs라 함), [PPO](https://en.wikipedia.org/wiki/Preferred_provider_organization)(Preferred Provider Organization, 이하 PPOs라 함), [POS](https://en.wikipedia.org/wiki/Point_of_service_plan)(Point Of Service, 이하 POSs라 함)가 있습니다. 100년 가까이 된 MCOs의 역사가 곧 미국 보건의료체계의 역사라고 할 만큼 MCOs는 미국 보건의료에서 중요한 주체입니다. 다른 포스트에서 더 자세히 다루도록 하겠습니다. 현재 미국 보험자의 시장 구성과 연도별 변화 추이를 보면 다음과 같습니다.
+
+![미국직장인의료보험가입플랜구성백분율추이](</images/posts/미국직장인의료보험가입플랜구성백분율추이.png>)
+
+* 의료기관 선택을 비교적 자유롭게 하도록 한 PPOs가 시장점유율을 꾸준히 증가시켜 2009년에 60%까지 늘린 후 보험료를 저렴하게 하는 대신에 높은 공제제([deductible](https://www.healthcare.gov/glossary/deductible/))를 적용하는 [HDHP/SO](https://www.metlife.com/stories/benefits/hdhp-vs-ppo/)(High-Deductible Health Plan/Savings Option)가 시장에서 선호되면서 현재 약 50%를 차지하고 있습니다. HDHP/SO 플랜도 대부분 PPOs 네트워크를 사용하기 때문에 넓은 의에서 보면 PPOs로 분류할 수 있습니다. 그럼 PPOs가 전체 플랜의 75% 이상을 점하고 있다고 할 수 있습니다. 미국 정부 입장에서 확대하기를 기대한 HMOs는 2010년대 들면서 지속적으로 시장이 줄어 현재는 15% 아래에서 정체 상태입니다. 가능한 자신의 [네트워크](https://www.lawinsider.com/dictionary/managed-care-network) 내에서 진료를 받도록 해 의료기관 선택 폭을 확대하지 못한 것이 원인입니다. HMOs는 다른 MCOs와 달리 HMO법(HMO act)에 기반하기 때문에 선불제 지불방식을 도입해야 하는 등 활동에 제약이 있기 때문입니다.
+
+### 다. 공급자
+
+* 그 아래 위치한 공급자는 MCOs가 운영하는 보건의료 공급자 네트워크([healthcare provider network](https://www.cms.gov/marketplace/outreach-and-education/what-you-should-know-provider-networks.pdf))와 어떤 보험자에게도 속하지 않고 자체적으로 운영하는 의료기관이 있습니다. MCOs는 보통 통합보건의료네트워크([Integrated Delivery Network](https://en.wikipedia.org/wiki/Integrated_delivery_system))를 가지고 가입한 대상자들의 건강을 돌보고 진료서비스를 제공합니다. 독립적인 의료기관은 MCOs들과 계약을 하고 가입된 대상자들에 대한 진료를 제공하거나 찾아오는 고객들에 대한 서비스를 제공합니다.
+
+## 2. 미국과 우리나라 보건의료체계의 가장 큰 차이
+
+### 가. 공공재원을 통한 민간의료기관에 대한 통제
+
+* 우리나라 보건의료체계에서 가장 뼈 아픈 부분이 지불자가 공급자의 의료서비스 과정을 통제하지 못한다는 것입니다. 반면 미국은 CMS를 중심으로 서비스 질을 높이면서 비용을 절감할 수 있는 정책 대안을 지속적으로 연구하고 시험합니다. 그리고 이를 통해 공급자의 보건의료서비스 과정을 통제하고 있습니다. 똑같이 공공재원을 사용해 민간의료기관이 제공한 의료서비스 비용을 상환하면서 우리나라는 공급자에게 끌려다니고 있는 형국입니다. 반성해야 합니다.
+
+* 미국의 CMS와 민간보험회사에 해당하는 지불자가 우리나라는 국민건강보험공단입니다. 사회보험인 우리나라는 단일 보험자 체계로 운영하고 있으며, 국민건강보험공단과 건강보험심사평가원이 보험자 기능을 합니다. 두 기관 모두 정부의 보건복지부 산하 기관으로 정부의 감독 하에 정책과 운영 전반을 지시받습니다. 미국에서 인구의 36%를 대상으로 의료보장을 책임지고 약 [2,400조원](</images/posts/미국의료보장종류별연간보건의료비추이.png>)의 의료비 지불을 담당하는 CMS가 전문가에 의해 운영되고 정부와 협력 관계 하에 자율성이 절대 보장되고 있는 것과는 대조적입니다. 참고로 말씀드리면 우리나라 건강보험 재정을 연간 [100조원](https://www.nhis.or.kr/announce/wbhaec11606m01.do)이 안되는 규모입니다.
+
+* CMS는 이 재원을 통해 메디케어와 메디케이드 대상자들에 대해 민간의료기관이 제공한 보건의료서비스 비용을 상환합니다. 우리나라가 건강보험 재정을 사용하여 국민에게 제공된 의료서비스 비용을 상환하는 것과 같은 것입니다. 미국과 우리나라가 유사한 것은 의료서비스를 거의 대부분 민간의료기관이 제공한다는 것입니다. 다만 가장 크게 다른 것은 제공하는 의료서비스의 과정을 통제할 수 있어 적절한 서비스를 제공했는 지를 평가하는 미국과 달리 우리나라는 과정을 통제할 수 있는 방법이 급여인정기준 뿐이기 때문에 의료기관이 이 조건을 충족한다면 서비스의 적절성을 따질 수 없고 그저 청구하는대로 현금을 지급할 수 밖에 없다는 것입니다.
+
+### 나. 미국 보건의료체계를 이끄는 CMS
+
+* 미국도 의료서비스 제공이 대부분 민간의료기관에서 행해지고 대부분 민간 보험자가 소유하고 있습니다. 하지만 CMS가 미국 의료비의 [40%](</images/posts/미국의료보장종류별연간보건의료비추이.png>)이상에 해당하는 재원을 인구의 [36%](</images/posts/미국의료보장종류별인구수백분률추이.png>)에 해당하는 메디케어와 메디케이드 대상자들의 보건의료 비용으로 지불하고 있기 때문에 민간의료기관은 CMS의 정책을 따르지 않을 수 없습니다. 그러므로 민간보험회사가 운영하는 민간의료보험도 결국 CMS의 정책 방향을 반영할 수 밖에 없습니다. 예를 들면, [책임의료조직](whatAco.md)(Accountable Care Organizations: ACOs)이 민간보험자의 플랜들이 참여하는 사업으로 확대되고 있는 것을 들 수 있습니다. 결국 미국 보건의료체계를 이끄는 중심은 CMS입니다. 민간보험회사가 운영하는 민간의료보험이 시장을 좌지우지하는 주체가 아닙니다. 다만 정부가 시장을 통제하지 않기 때문에 CMS가 바라는 국가보건의료체계의 모습과 민간보험회사의 이익 추구가 첨예하게 갈등하면서 공존하는 시장 내 경쟁상태로 보는 것이 타당할 것 같습니다. 결과적으로 CMS의 정책 의지와 미래 목표를 보면 미국 보건의료체계가 나아가는 방향을 가늠할 수 있습니다.
