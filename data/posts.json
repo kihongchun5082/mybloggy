@@ -160,6 +160,15 @@
     "path": "hlthSysCmpsUS",
     "fileType": "md",
     "featured": true
+  },
+  {
+    "title": "일본 온천여행-하코네, 아타미",
+    "description": "저팬트래블이 선정한 일본 30대 온천 중 후지산 인근의 2곳이다.",
+    "date": "2026-01-29",
+    "category": "일본 온천",
+    "path": "shizuoka_hakone_atamiOnsen",
+    "fileType": "md",
+    "featured": true
   }
 ]
 
