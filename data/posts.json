@@ -160,6 +160,15 @@
     "path": "hlthSysCmpsUS",
     "fileType": "md",
     "featured": true
+  },
+  {
+    "title": "시즈오카 인근 온천 여행-하코네 아타미",
+    "description": "시즈오카로 입출국해서 일본 30대 온천으로 꼽히는 하코네 온천과 아타미 온천을 경험했다.",
+    "date": "2026-1-29",
+    "category": "일본온천여행",
+    "path": "shizuoka_hakone_atamiOnsen",
+    "fileType": "md",
+    "featured": true
   }
 ]
 
